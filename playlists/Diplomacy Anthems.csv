@@ -1,8 +1,8 @@
-name,artist,id,added_at,added_by
-Gott Erhalte Franz den Kaiser,Elin Manahan Thomas,57jDDDtlYGtgvpQ4GaJ44T,2020-03-28T00:31:38Z,1214496633
-God Save Our Queen (British National Anthem),The Royal British Choir,0iIJAyiAZHoIxKYMhsfmCA,2020-03-28T00:29:34Z,1214496633
-France: La Marseillaise,"Choeur de l'Armée Française, Musique De La Garde Républicaine",2q1vrQs0yhqXjbgThXz9lk,2020-03-28T00:27:02Z,1214496633
-"Variations, Op. 1 ""Heil dir im Siegerkranz!"": I. Tema","August Gottfried Ritter, Massimo Gabba",3tpX3a7eZSlmrw9tKVuUIj,2020-03-28T00:35:20Z,1214496633
-Marcia reale d'ordinanza,Coro Orchestra Toscanini Bologna,1fmsig7cEY5bDPbFThsQcU,2020-03-28T00:41:22Z,1214496633
-God! Save the Tsar! - The Russian National Anthem,Men Choir of Saint-Petersbourg Courtyard,2o9p1yZWOazHlaNvGKEK8r,2020-03-28T00:28:19Z,1214496633
-Mecidiye Marşı,Emre Aracı,4Dqoi7qU3Vb68XK6J4E4Wj,2020-03-28T00:37:35Z,1214496633
+name,artist,id,added_at,added_by,length_seconds
+Gott Erhalte Franz den Kaiser,Elin Manahan Thomas,57jDDDtlYGtgvpQ4GaJ44T,2020-03-28T00:31:38Z,1214496633,126
+God Save Our Queen (British National Anthem),The Royal British Choir,0iIJAyiAZHoIxKYMhsfmCA,2020-03-28T00:29:34Z,1214496633,142
+France: La Marseillaise,"Choeur de l'Armée Française, Musique De La Garde Républicaine",2q1vrQs0yhqXjbgThXz9lk,2020-03-28T00:27:02Z,1214496633,64
+"Variations, Op. 1 ""Heil dir im Siegerkranz!"": I. Tema","August Gottfried Ritter, Massimo Gabba",3tpX3a7eZSlmrw9tKVuUIj,2020-03-28T00:35:20Z,1214496633,47
+Marcia reale d'ordinanza,Coro Orchestra Toscanini Bologna,1fmsig7cEY5bDPbFThsQcU,2020-03-28T00:41:22Z,1214496633,173
+God! Save the Tsar! - The Russian National Anthem,Men Choir of Saint-Petersbourg Courtyard,2o9p1yZWOazHlaNvGKEK8r,2020-03-28T00:28:19Z,1214496633,114
+Mecidiye Marşı,Emre Aracı,4Dqoi7qU3Vb68XK6J4E4Wj,2020-03-28T00:37:35Z,1214496633,183

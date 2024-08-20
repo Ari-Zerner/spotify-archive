@@ -1,7 +1,7 @@
-name,artist,id,added_at,added_by
-Istanbul (Not Constantinople),They Might Be Giants,63vL5oxWrlvaJ0ayNaQnbX,2023-01-11T10:00:47Z,1214496633
-תל אביב,Omer Adam,26o6KYVdmCmh7AY0nhBoKj,2023-01-11T10:01:01Z,1214496633
-I'm Shipping Up To Boston,Dropkick Murphys,7rSERmjAT38lC5QhJ8hnQc,2023-01-11T10:01:13Z,1214496633
-I Love Seattle,Tacocat,1tSBySlxQCtYcRXAq0lz7u,2023-01-11T10:01:35Z,1214496633
-Vienna,Billy Joel,4U45aEWtQhrm8A5mxPaFZ7,2023-02-19T21:37:59Z,1214496633
-Tokyo,Alexandra Stan,0iGp649Ga4eurERXbWHiPd,2023-06-16T17:58:34Z,1214496633
+name,artist,id,added_at,added_by,length_seconds
+Istanbul (Not Constantinople),They Might Be Giants,63vL5oxWrlvaJ0ayNaQnbX,2023-01-11T10:00:47Z,1214496633,153
+תל אביב,Omer Adam,26o6KYVdmCmh7AY0nhBoKj,2023-01-11T10:01:01Z,1214496633,218
+I'm Shipping Up To Boston,Dropkick Murphys,7rSERmjAT38lC5QhJ8hnQc,2023-01-11T10:01:13Z,1214496633,153
+I Love Seattle,Tacocat,1tSBySlxQCtYcRXAq0lz7u,2023-01-11T10:01:35Z,1214496633,156
+Vienna,Billy Joel,4U45aEWtQhrm8A5mxPaFZ7,2023-02-19T21:37:59Z,1214496633,214
+Tokyo,Alexandra Stan,0iGp649Ga4eurERXbWHiPd,2023-06-16T17:58:34Z,1214496633,182

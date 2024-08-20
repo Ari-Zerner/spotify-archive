@@ -1,9 +1,9 @@
-name,artist,id,added_at,added_by
-أيامي بيك,Elissa,7tdC2FVEUdSXZdWneDJP5W,2022-07-12T19:22:11Z,1214496633
-Izgrejala,"David Starfire, Stellamara",0p3FApiz8J6y89fgRYFby9,2022-06-21T19:39:46Z,1214496633
-Mr. Carisma,Ximena Sariñana,1hdSsODySd5A7IHDStGjBn,2022-06-17T15:48:51Z,1214496633
-Arráncame - Live,"Marissa Mur, Alex Ferreira",6aK2GIvXcrkPZ7Nz0gNwoZ,2022-06-17T15:48:50Z,1214496633
-Mr. Carisma,Ximena Sariñana,1hdSsODySd5A7IHDStGjBn,2022-06-17T15:33:58Z,1214496633
-Mr. Carisma,Ximena Sariñana,1hdSsODySd5A7IHDStGjBn,2022-06-17T15:33:23Z,1214496633
-Discotraxx,Ladytron,5qYM7MNK6w2GvOzfBkPLVT,2022-05-10T19:52:09Z,1214496633
-Let Me Get Me,Selena Gomez,0uFForNKQPvgSCnxlZIhQy,2022-05-08T03:53:28Z,1214496633
+name,artist,id,added_at,added_by,length_seconds
+أيامي بيك,Elissa,7tdC2FVEUdSXZdWneDJP5W,2022-07-12T19:22:11Z,1214496633,280
+Izgrejala,"David Starfire, Stellamara",0p3FApiz8J6y89fgRYFby9,2022-06-21T19:39:46Z,1214496633,236
+Mr. Carisma,Ximena Sariñana,1hdSsODySd5A7IHDStGjBn,2022-06-17T15:48:51Z,1214496633,231
+Arráncame - Live,"Marissa Mur, Alex Ferreira",6aK2GIvXcrkPZ7Nz0gNwoZ,2022-06-17T15:48:50Z,1214496633,209
+Mr. Carisma,Ximena Sariñana,1hdSsODySd5A7IHDStGjBn,2022-06-17T15:33:58Z,1214496633,231
+Mr. Carisma,Ximena Sariñana,1hdSsODySd5A7IHDStGjBn,2022-06-17T15:33:23Z,1214496633,231
+Discotraxx,Ladytron,5qYM7MNK6w2GvOzfBkPLVT,2022-05-10T19:52:09Z,1214496633,230
+Let Me Get Me,Selena Gomez,0uFForNKQPvgSCnxlZIhQy,2022-05-08T03:53:28Z,1214496633,189

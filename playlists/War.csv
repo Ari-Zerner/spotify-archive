@@ -1,34 +1,34 @@
-name,artist,id,added_at,added_by
-Over There,"George M. Cohan, Arthur Fields",5mo0WrdmFpnB5Q3WQNBwiN,2019-06-13T12:58:18Z,1214496633
-It's a Long Way to Tipperary - 1914,John McCormack,70gfB8orjZFNqogQSv4oAE,2019-06-13T12:58:21Z,1214496633
-When Johnny Comes Marching Home,38th Army Band,02RV5R3tY0ToCkUGpxkwul,2019-06-13T12:58:46Z,1214496633
-National Anthem Of The Ussr,The Red Army Choir,1zPm8UZgIBYRRHNyyhqOpV,2019-06-13T12:59:27Z,1214496633
-"British National Anthem ""God Save the Queen""",National Anthem Band,2DQhsEN2O1evDafa6Wi2Mb,2019-06-13T13:09:09Z,1214496633
-United States of America National Anthem,National Anthem Band,5jB2iHbwdzxLzxQjilsMFu,2019-06-13T13:10:30Z,1214496633
-"France National Anthem ""Le Marseillaise""",National Anthem Band,3blAMt4WR6mAG0qyEvswJL,2019-06-13T13:14:33Z,1214496633
-Lili Marleen,Lale Andersen,0cT0TSrzJUERzgU0L0kDzM,2019-06-13T13:19:05Z,1214496633
-Dixie's Land,Albert Pike,7u9EcTGryQOsmDNPcGRUuO,2019-06-13T13:35:06Z,1214496633
-Come out You Black and Tans,Paddy Reilly,5Zuew0YXLsVcIkNBsDanm0,2019-06-13T13:40:21Z,1214496633
-The British Grenadiers,The Cheshire Regimental Band,5ZaulX0u0YWJKlLm0CGrJO,2019-06-13T13:49:44Z,1214496633
-Deutschlandlied,German Choir,1SuJ0t0gdSk5mopDrcuyhC,2019-06-13T13:59:31Z,1214496633
-Hatikvah - Israeli National Anthem,The Jewish Starlight Orchestra,6PqASrCUTMbBUt2IinheDM,2019-06-13T14:02:23Z,1214496633
-The Partisan's Song,The Red Army Choir,18q3i77z1blymit5dpZd7r,2019-06-15T06:51:13Z,1214496633
-Fortunate Son,Creedence Clearwater Revival,4BP3uh0hFLFRb5cjsgLqDh,2019-06-15T06:55:04Z,1214496633
-Panzerlied,German Choir,1HmswM0LwEZ6yTA58h5KNn,2019-06-15T07:02:55Z,1214496633
-Kiss Me Goodnight Sergeant Major,Arthur Askey,7hpwSLLWuM6SD67eiBjAUH,2019-06-15T07:03:49Z,1214496633
-Hanging on the Old Barbed Wire,"Dominique Grange, Tardi, Accordzêam",4JM1dTg4MF0MvJNUB5WhZj,2019-06-15T07:07:02Z,1214496633
-Pack up Your Troubles - 1916,Murray Johnson,2QVArdZV4ciKmsaMTCwaaw,2019-06-15T07:12:47Z,1214496633
-Le Chant des Partisans Français,The Red Army Choir,6XdQpG2nZX8B2uE3n4j0Ga,2019-06-15T07:14:48Z,1214496633
-Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra,31g0jHwSxO2iuw3p07iZUC,2019-06-15T07:17:15Z,1214496633
-Keep the Home Fires Burning,The D-Day Darlings,2b8S8HxYNqP0xWutj3DBLj,2019-06-15T07:18:27Z,1214496633
-Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist,Manu Pilas,3lWzVNe1yFZlkeBBzUuZYu,2019-06-15T07:19:38Z,1214496633
-Marine's Hymn,Sun Harbor Chorus,0FbzrfpDKHqNztLouX6UxL,2019-06-17T04:22:24Z,1214496633
-The Further It Is from Tipperary,Billy Murray,19rnerWb9ONDogWCN95gf3,2019-09-24T09:59:46Z,1214496633
-Atəş,"Nur Group, Nərmin Kərimbəyova, Ceyhun Zeynalov",,2020-10-13T13:42:11Z,1214496633
-The Power of China,PLA,,2020-10-13T13:49:29Z,1214496633
-Army Life,Pete Seeger,1x6H0Q8Sro2YlS3gugIEgr,2020-10-13T14:12:22Z,1214496633
-Protect The Land,System Of A Down,11ajcVj3qSyyMPUpTJUP3y,2020-11-10T03:23:18Z,1214496633
-God Save Ireland,The Wolfe Tones,4g64ZSMmriOfChC4oATEPo,2021-08-22T04:51:32Z,1214496633
-Himno Nacional Mexicano,Orquesta Filarmónica internacional,6WbxsSeaWPfYaz7X1pceoh,2021-11-13T05:45:43Z,1214496633
-Katyusha,"The Red Army Choir, Валерия Курнушкина, Игорь Раевский",5rRAOgZOAqHwUMwVAXkUYU,2022-07-11T02:53:31Z,1214496633
-Säkkijärven Polkka,Lahden Musiikkiluokkien Lapsikuorot Ja Freija,5DZdeElPWdJj7RLrzAraEj,2022-08-04T15:21:59Z,1214496633
+name,artist,id,added_at,added_by,length_seconds
+Over There,"George M. Cohan, Arthur Fields",5mo0WrdmFpnB5Q3WQNBwiN,2019-06-13T12:58:18Z,1214496633,168
+It's a Long Way to Tipperary - 1914,John McCormack,70gfB8orjZFNqogQSv4oAE,2019-06-13T12:58:21Z,1214496633,197
+When Johnny Comes Marching Home,38th Army Band,02RV5R3tY0ToCkUGpxkwul,2019-06-13T12:58:46Z,1214496633,139
+National Anthem Of The Ussr,The Red Army Choir,1zPm8UZgIBYRRHNyyhqOpV,2019-06-13T12:59:27Z,1214496633,223
+"British National Anthem ""God Save the Queen""",National Anthem Band,2DQhsEN2O1evDafa6Wi2Mb,2019-06-13T13:09:09Z,1214496633,158
+United States of America National Anthem,National Anthem Band,5jB2iHbwdzxLzxQjilsMFu,2019-06-13T13:10:30Z,1214496633,150
+"France National Anthem ""Le Marseillaise""",National Anthem Band,3blAMt4WR6mAG0qyEvswJL,2019-06-13T13:14:33Z,1214496633,308
+Lili Marleen,Lale Andersen,0cT0TSrzJUERzgU0L0kDzM,2019-06-13T13:19:05Z,1214496633,217
+Dixie's Land,Albert Pike,7u9EcTGryQOsmDNPcGRUuO,2019-06-13T13:35:06Z,1214496633,142
+Come out You Black and Tans,Paddy Reilly,5Zuew0YXLsVcIkNBsDanm0,2019-06-13T13:40:21Z,1214496633,157
+The British Grenadiers,The Cheshire Regimental Band,5ZaulX0u0YWJKlLm0CGrJO,2019-06-13T13:49:44Z,1214496633,64
+Deutschlandlied,German Choir,1SuJ0t0gdSk5mopDrcuyhC,2019-06-13T13:59:31Z,1214496633,207
+Hatikvah - Israeli National Anthem,The Jewish Starlight Orchestra,6PqASrCUTMbBUt2IinheDM,2019-06-13T14:02:23Z,1214496633,187
+The Partisan's Song,The Red Army Choir,18q3i77z1blymit5dpZd7r,2019-06-15T06:51:13Z,1214496633,139
+Fortunate Son,Creedence Clearwater Revival,4BP3uh0hFLFRb5cjsgLqDh,2019-06-15T06:55:04Z,1214496633,140
+Panzerlied,German Choir,1HmswM0LwEZ6yTA58h5KNn,2019-06-15T07:02:55Z,1214496633,186
+Kiss Me Goodnight Sergeant Major,Arthur Askey,7hpwSLLWuM6SD67eiBjAUH,2019-06-15T07:03:49Z,1214496633,174
+Hanging on the Old Barbed Wire,"Dominique Grange, Tardi, Accordzêam",4JM1dTg4MF0MvJNUB5WhZj,2019-06-15T07:07:02Z,1214496633,183
+Pack up Your Troubles - 1916,Murray Johnson,2QVArdZV4ciKmsaMTCwaaw,2019-06-15T07:12:47Z,1214496633,167
+Le Chant des Partisans Français,The Red Army Choir,6XdQpG2nZX8B2uE3n4j0Ga,2019-06-15T07:14:48Z,1214496633,243
+Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra,31g0jHwSxO2iuw3p07iZUC,2019-06-15T07:17:15Z,1214496633,151
+Keep the Home Fires Burning,The D-Day Darlings,2b8S8HxYNqP0xWutj3DBLj,2019-06-15T07:18:27Z,1214496633,247
+Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist,Manu Pilas,3lWzVNe1yFZlkeBBzUuZYu,2019-06-15T07:19:38Z,1214496633,139
+Marine's Hymn,Sun Harbor Chorus,0FbzrfpDKHqNztLouX6UxL,2019-06-17T04:22:24Z,1214496633,110
+The Further It Is from Tipperary,Billy Murray,19rnerWb9ONDogWCN95gf3,2019-09-24T09:59:46Z,1214496633,172
+Atəş,"Nur Group, Nərmin Kərimbəyova, Ceyhun Zeynalov",,2020-10-13T13:42:11Z,1214496633,261
+The Power of China,PLA,,2020-10-13T13:49:29Z,1214496633,169
+Army Life,Pete Seeger,1x6H0Q8Sro2YlS3gugIEgr,2020-10-13T14:12:22Z,1214496633,128
+Protect The Land,System Of A Down,11ajcVj3qSyyMPUpTJUP3y,2020-11-10T03:23:18Z,1214496633,307
+God Save Ireland,The Wolfe Tones,4g64ZSMmriOfChC4oATEPo,2021-08-22T04:51:32Z,1214496633,156
+Himno Nacional Mexicano,Orquesta Filarmónica internacional,6WbxsSeaWPfYaz7X1pceoh,2021-11-13T05:45:43Z,1214496633,282
+Katyusha,"The Red Army Choir, Валерия Курнушкина, Игорь Раевский",5rRAOgZOAqHwUMwVAXkUYU,2022-07-11T02:53:31Z,1214496633,146
+Säkkijärven Polkka,Lahden Musiikkiluokkien Lapsikuorot Ja Freija,5DZdeElPWdJj7RLrzAraEj,2022-08-04T15:21:59Z,1214496633,100

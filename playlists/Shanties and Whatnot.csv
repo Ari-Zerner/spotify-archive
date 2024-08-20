@@ -1,17 +1,17 @@
-name,artist,id,added_at,added_by
-Sarah,Derina Harvey Band,4qoY9d0fhLD6RzTAxk72fQ,2022-11-16T23:44:09Z,1214496633
-Tits & Whiskey,Mary Prankster,7iVa136FVLCCSwetUqRVkR,2022-11-16T23:44:45Z,1214496633
-Nancy Mulligan,Ed Sheeran,35QZaWQRkmnAVqBF1TLCxQ,2022-11-16T23:45:38Z,1214496633
-Oak & Ash & Thorn,The Longest Johns,38FCXf9CTcH9MJKn3WsJ7x,2022-11-16T23:46:25Z,1214496633
-Shady Grove,Among The Oak & Ash,071smWCqhOmkiijPY11vmK,2022-11-16T23:46:31Z,1214496633
-The Last Shanty,Derina Harvey Band,69HEUcXd73lvnQVb34m53L,2022-11-16T23:46:50Z,1214496633
-Wellerman,The Wellermen,2JQVIEw8UqX3PDMo6W29NL,2022-11-16T23:47:28Z,1214496633
-High Barbary,Storm Weather Shanty Choir,6sguMb85rfhr4dUxbxduiN,2022-11-16T23:48:05Z,1214496633
-Byker Hill,The Cottars,4yUGqJd9vQR417vmNK8Qve,2022-11-16T23:48:40Z,1214496633
-Dawson's Christian,Vixy & Tony,2oG4RIs8un5YsqCgxfT6LM,2022-11-16T23:49:05Z,1214496633
-Black Fox,Heather Dale,6RESm7ENOUghLSFpfrFBsT,2022-11-16T23:49:19Z,1214496633
-Anne Is a Man at Sea,Karliene,0KLTtwEfhuqFsc3SlUNmj9,2022-11-16T23:51:56Z,1214496633
-Loreley,Blackmore's Night,2E1QXihcO7wNK0P7mipkKc,2022-11-16T23:53:15Z,1214496633
-Under a Violet Moon,Blackmore's Night,2WpmMlS6Tr01C7UNFjQI3U,2022-11-19T19:16:14Z,1214496633
-The Longing - Hurdy Gurdy Version,Patty Gurdy,1sbXMtoRvW044vNkn7IWm4,2022-11-19T19:22:35Z,1214496633
-Leatherwing Bat,"Peter, Paul and Mary",2taexyWnKdiW8mJJHPbZ5k,2022-11-19T19:41:53Z,1214496633
+name,artist,id,added_at,added_by,length_seconds
+Sarah,Derina Harvey Band,4qoY9d0fhLD6RzTAxk72fQ,2022-11-16T23:44:09Z,1214496633,199
+Tits & Whiskey,Mary Prankster,7iVa136FVLCCSwetUqRVkR,2022-11-16T23:44:45Z,1214496633,97
+Nancy Mulligan,Ed Sheeran,35QZaWQRkmnAVqBF1TLCxQ,2022-11-16T23:45:38Z,1214496633,179
+Oak & Ash & Thorn,The Longest Johns,38FCXf9CTcH9MJKn3WsJ7x,2022-11-16T23:46:25Z,1214496633,248
+Shady Grove,Among The Oak & Ash,071smWCqhOmkiijPY11vmK,2022-11-16T23:46:31Z,1214496633,112
+The Last Shanty,Derina Harvey Band,69HEUcXd73lvnQVb34m53L,2022-11-16T23:46:50Z,1214496633,226
+Wellerman,The Wellermen,2JQVIEw8UqX3PDMo6W29NL,2022-11-16T23:47:28Z,1214496633,134
+High Barbary,Storm Weather Shanty Choir,6sguMb85rfhr4dUxbxduiN,2022-11-16T23:48:05Z,1214496633,191
+Byker Hill,The Cottars,4yUGqJd9vQR417vmNK8Qve,2022-11-16T23:48:40Z,1214496633,167
+Dawson's Christian,Vixy & Tony,2oG4RIs8un5YsqCgxfT6LM,2022-11-16T23:49:05Z,1214496633,334
+Black Fox,Heather Dale,6RESm7ENOUghLSFpfrFBsT,2022-11-16T23:49:19Z,1214496633,192
+Anne Is a Man at Sea,Karliene,0KLTtwEfhuqFsc3SlUNmj9,2022-11-16T23:51:56Z,1214496633,141
+Loreley,Blackmore's Night,2E1QXihcO7wNK0P7mipkKc,2022-11-16T23:53:15Z,1214496633,216
+Under a Violet Moon,Blackmore's Night,2WpmMlS6Tr01C7UNFjQI3U,2022-11-19T19:16:14Z,1214496633,263
+The Longing - Hurdy Gurdy Version,Patty Gurdy,1sbXMtoRvW044vNkn7IWm4,2022-11-19T19:22:35Z,1214496633,207
+Leatherwing Bat,"Peter, Paul and Mary",2taexyWnKdiW8mJJHPbZ5k,2022-11-19T19:41:53Z,1214496633,153
